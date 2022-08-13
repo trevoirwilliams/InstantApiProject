@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32728.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantApiProject", "InstantApiProject\InstantApiProject.csproj", "{F5427651-5CFE-4236-8BC5-C1CC3EDBA713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5427651-5CFE-4236-8BC5-C1CC3EDBA713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5427651-5CFE-4236-8BC5-C1CC3EDBA713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5427651-5CFE-4236-8BC5-C1CC3EDBA713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5427651-5CFE-4236-8BC5-C1CC3EDBA713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC1C1810-0DD6-41EC-A63D-F10F514BC07C}
+	EndGlobalSection
+EndGlobal
